@@ -1,5 +1,7 @@
 # Sailing Into Microsoft's Cloud for SMBs
 
+**Matt Mosley** *Director of Construction Platform Services, BIG*
+
 ## Microsoft Licensing
 
 Licensing tiers potentially change annually
